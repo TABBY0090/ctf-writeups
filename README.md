@@ -1,7 +1,6 @@
 # 🛡️ Doli 1 — CTF Writeup (VulnHub)
 
-> **VAPT Report | Aadit Patil (K045), Sahasra Ramadugu (K051), Nain Sadarangani (K056)**  
-> Report Date: 15 April 2026 | Version: 3.0 (Final)  
+> **VAPT Report  
 > **For Authorized / Educational Use Only**
 
 ---
