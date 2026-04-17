@@ -59,19 +59,19 @@ Phase 08 → Privilege Escalation  msfvenom ELF → Meterpreter → kernel explo
 **Host Discovery**
 ```bash
 netdiscover -r 192.168.179.0/24
-# Target found: 192.168.179.129 (VMware)
+# Target found: 192.168.179.130 (VMware)
 ```
 
 **Port & Service Scan**
 ```bash
-nmap -sC -sV 192.168.179.129
+nmap -sC -sV 192.168.179.130
 # Port 22: OpenSSH 7.2p2
 # Port 80: nginx 1.10.3 | hostname: doli.thm
 ```
 
 **Web Scan**
 ```bash
-nikto -h http://192.168.179.129
+nikto -h http://192.168.179.130
 # Limited output; missing security headers, outdated nginx noted
 # Pivoted to domain-based enumeration via /etc/hosts
 ```
