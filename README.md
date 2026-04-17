@@ -26,17 +26,6 @@
 
 ---
 
-## 📊 Findings Summary
-
-| Severity | Count | CVSS | Status |
-|---|---|---|---|
-| 🔴 Critical | 3 | 9.8 | Exploited |
-| 🟠 High | 3 | 7.5–8.1 | Exploited |
-| 🟡 Medium | 1 | 5.3 | Identified |
-| 🔵 Informational | 1 | N/A | Noted |
-
----
-
 ## 🗺️ Attack Chain — 8 Phases
 
 ```
