@@ -10,7 +10,7 @@
 | Field | Details |
 |---|---|
 | **Machine** | Doli 1 (VulnHub CTF) |
-| **Target IP** | 192.168.179.129 |
+| **Target IP** | 192.168.179.130 |
 | **Domain** | doli.thm |
 | **Subdomain** | erp.doli.thm |
 | **Application** | Dolibarr ERP/CRM (PHP) |
