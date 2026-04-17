@@ -1,6 +1,6 @@
 # 🛡️ Doli 1 — CTF Writeup (VulnHub)
 
-> **VAPT Report  
+> **VAPT Report** 
 > **For Authorized / Educational Use Only**
 
 ---
